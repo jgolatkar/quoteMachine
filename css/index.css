@@ -14,9 +14,37 @@ hr{
 
 #quoteBox{
 	margin-top: 20%;
+	opacity: 0.8;
+	padding-top: 15%;
+    padding-bottom: 10%;
 }
 
 #quoteArea{
-	margin: 20px 0 20px;
+	margin: 20px 0 10px;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 20px;
+	}
+
+#title{
+	font-family: 'Roboto Slab', serif;
+	font-weight: 500;
+	font-style: bold;
 }
 
+.footer-below{
+	font-family: 'Roboto Slab', serif;
+	font-size:20px;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+
+}
+.footer-below a{
+		text-decoration: none;
+		color: #fb8c00;
+}
+
+.btn-text{
+	font-size: 20px;
+}
